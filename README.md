@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @haydayisawsome
 - 👀 I’m interested in video games and coding!
-- 🌱 I’m currently learning Python and Java Script.
-- 💞️ I’m looking to collaborate on a discord bot called sharpie.
+- 🌱 I’m currently learning Java
 - 📫 Reach me by Dm on discord!
 
 <!---
