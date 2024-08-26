@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haydayisawsome
-- 👀 I’m interested in video games and coding!
-- 🌱 I’m currently learning Java
-- 📫 Reach me by Dm on discord!
+- 👀 I’m interested in aviation, robotics and coding!
+- 🌱 I’m currently learning Java, HTML and CSS
+- 📫 Reach me by my website!
 
 <!---
 haydayisawsome/haydayisawsome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
