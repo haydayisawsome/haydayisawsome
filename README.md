@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @haydayisawsome
 - 👀 I’m interested in aviation, robotics and coding!
-- 🌱 I’m currently learning Java, HTML and CSS
+- 🌱 I’m currently learning Python
+- ⭐ I'm fluent in HTML, CSS and Java
 - 📫 Reach me by my website!
 
 <!---
